@@ -1,6 +1,6 @@
 # Introduction
 
-Development standards.........
+Development standards....
 
 ### Authors:
 
